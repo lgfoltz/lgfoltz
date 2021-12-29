@@ -24,8 +24,8 @@
 ---
 
 ## Currently Working on... 
-* Distributed Software Systems - SER321
-* AWS Cloud Practioner Certification
+* Crypto Arbitrage Bot
+* Trade Tracking web-application (Equities, Derivatives, Cryptocurrency)
 
 <!--
 **lgfoltz/lgfoltz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
