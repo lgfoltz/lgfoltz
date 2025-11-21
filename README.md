@@ -23,9 +23,16 @@
 
 ---
 
-## Currently Working on... 
-* Crypto Arbitrage Bot
-* Trade Tracking web-application (Equities, Derivatives, Cryptocurrency)
+## Currently Working on...
+
+📈 **Deep-learning applications in financial time-series forecasting**
+- Performance of different sequence models
+- Techniques for coercing stationarity in financial data (ATR normalization, fractional/higher-order differencing, etc.)
+- Fusion models - using DL for feature extraction (perception), and shallow ML models for predictions (output layer)
+
+🔎 **Advanced Retrieval-Augmented Generation (RAG) applications**
+- **Data Preprocessing**: comparing the use of different tools for heterogeneous data sources for LLMs (OCR methods, canonical data formats, etc.)
+- **Plant Genetics**: exploring the hierarchy of binomial nomenclature (Family, Genus, and Species) to make searches smarter
 
 <!--
 **lgfoltz/lgfoltz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
